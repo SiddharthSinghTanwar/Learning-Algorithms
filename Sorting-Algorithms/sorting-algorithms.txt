@@ -1,0 +1,3 @@
+The algorithms practiced so far are in this order:
+
+1) Merge sort (array and Linked list implementations)
