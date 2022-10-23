@@ -1,0 +1,4 @@
+The searching algorithms learnt so far:
+
+1) Linear Search
+2) Binary Search (iterative and recursion approach)
